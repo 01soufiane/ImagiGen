@@ -1,9 +1,11 @@
-# ImagiGen
+# ImagGen
 # проект по
 - Суфіан Ель Махжур AI-211
 # Опис проекту :
-У своєму проекті "ImagiGen" я використовую потужність GPT (Generative Pre-trained Transformer) API від компанії Open-AI зокрема моделі DALL-E щоб увімкнути генерацію зображень на основі опису чи уяви користувача. 
+У своєму проекті "ImagGen" я використовую потужність GPT (Generative Pre-trained Transformer) API від компанії Open-AI зокрема моделі DALL-E щоб увімкнути генерацію зображень на основі опису чи уяви користувача. 
 Я використовую Spring у цьому проекті щоб створити безперебійну веб-програму для взаємодії користувачів із функцією створення зображень.
+
+<a href="https://trello.com/b/gfyB5M1X/imaggen">Беклог додатку</a>
 
 # API Documentation :
 [Documentation](https://platform.openai.com/docs/guides/images/introduction) 
